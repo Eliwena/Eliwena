@@ -7,3 +7,7 @@
 <a href="https://github.com/eliwena">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliwena&layout=compact&theme=radical" />
 </a>
+
+<a href="https://github.com/Eliwena">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Eliwena.Eliwena&style=for-the-badge">
+<a>
